@@ -10,7 +10,7 @@ export const Projects = () => {
       <RevealText delay={0.1}>
         <h2 className="text-2xl font-medium mb-12">Selected Projects</h2>
       </RevealText>
-      <div className="grid grid-cols-2 sm:grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-2 gap-6">
         <Project
           title="Taskzilla"
           description="Task management application, that allows users to create and manage workspaces, projects, tasks and columns."
