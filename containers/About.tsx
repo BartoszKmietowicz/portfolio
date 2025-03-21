@@ -17,7 +17,7 @@ export const About = () => {
                     </p>
                     <p className="text-zinc-200 mb-4">
                         My approach combines strategic thinking with technical expertise to deliver solutions that are both
-                        beautiful and functional.
+                        functional and beautiful.
                     </p>
 
                 </div>

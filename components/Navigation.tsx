@@ -36,21 +36,21 @@ export default function Navigation() {
         <div className="absolute inset-x-0 top-20 bg-black p-4 md:hidden z-50">
           <div className="flex flex-col space-y-4 py-4">
             <Link
-              href="#"
+              href="#Projects"
               className="text-zinc-400 hover:text-white transition-colors py-2"
               onClick={() => setIsMenuOpen(false)}
             >
               Work
             </Link>
             <Link
-              href="#"
+              href="#About"
               className="text-zinc-400 hover:text-white transition-colors py-2"
               onClick={() => setIsMenuOpen(false)}
             >
               About
             </Link>
             <Link
-              href="#"
+              href="#Contact"
               className="text-zinc-400 hover:text-white transition-colors py-2"
               onClick={() => setIsMenuOpen(false)}
             >
